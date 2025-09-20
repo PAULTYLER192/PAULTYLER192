@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Paul Ogonyo Ochieng, <br>a Software Engineer crafting scalable backend systems, data-driven ML models, and robust databases. Passionate about solving real-world problems through code,<br> I’m building projects like KilimoTek to impact lives. 💻🌍
+# Hi, I’m Paul Ogonyo Ochieng:
+ <br>a Software Engineer crafting scalable backend systems, data-driven ML models, and robust databases. Passionate about solving real-world problems through code,<br> I’m building projects like KilimoTek to impact lives. 💻🌍
 
 
 ## 🌐 Socials:
