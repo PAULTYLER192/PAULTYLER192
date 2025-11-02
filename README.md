@@ -51,12 +51,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Paul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PAULTYLER192&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Paul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULTYLER192&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAULTYLER192&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-> **Note**: Replace `yourusername` with your actual GitHub username in the badges above for live stats.
 
 ---
 
@@ -64,8 +63,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **[KilimoTek](https://github.com/yourusername/kilimotek)** | Agricultural intelligence platform empowering smallholder farmers with AI-driven crop insights and market forecasting. | Django, FastAPI, PostgreSQL, Scikit-learn, Docker |
-| **[Salt & Light](https://github.com/yourusername/salt-and-light)** | Faith-driven community app connecting believers through events, devotionals, and prayer networks. | Flask, SQLite, React, Firebase |
+| **[KilimoTek](https://github.com/PAULTYLER192/kilimotek)** | Agricultural intelligence platform empowering smallholder farmers with AI-driven crop insights and market forecasting. | Django, FastAPI, PostgreSQL, Scikit-learn, Docker |
+| **[Salt & Light](https://github.com/PAULTYLER192/salt-and-light)** | Faith-driven community app connecting believers through events, devotionals, and prayer networks. | Flask, SQLite, React, Firebase |
 | **[Data Alchemists](https://www.kaggle.com/teams/123456)** | Kaggle team focused on collaborative ML competitions and real-world data challenges. | Python, Pandas, TensorFlow, Kaggle API |
 
 ---
