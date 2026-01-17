@@ -1,7 +1,7 @@
 # Paul Ogonyo Ochieng  
 **Backend Engineer | Data Scientist in Progress | AI Enthusiast**
 
-> *"Crafting scalable backend systems, robust databases, and intelligent ML models to solve real-world problems. I build with purpose — from Django APIs to SQL engines and deep learning pipelines. Projects like KilimoTek reflect my mission: tech that transforms lives."*
+> *"I’m a Computer Science student at Egerton University, bridging the gap between Backend Systems and Data Science. Passionate about building tools from scratch—like my recent custom SQL Database Engine.Crafting scalable backend systems, robust databases, and intelligent ML models to solve real-world problems. I build with purpose — from Django APIs to SQL engines and deep learning pipelines. Projects like KilimoTek reflect my mission: tech that transforms lives."*
 
 ---
 
@@ -68,7 +68,13 @@
 | **[Data Alchemists](https://www.kaggle.com/teams/123456)** | Kaggle team focused on collaborative ML competitions and real-world data challenges. | Python, Pandas, TensorFlow, Kaggle API |
 
 ---
+### 🚀 Currently Featured Project: Custom RDBMS Engine
+I recently engineered a relational database system from scratch to demonstrate low-level backend concepts.
+- **Tech:** Python, In-Memory Indexing, JSONL Storage, Flask.
+- **Live Demo:** [Check it out on PythonAnywhere](https://paultyler192.pythonanywhere.com/)
+- **Source Code:** [View Repository](https://github.com/PAULTYLER192/pesapal-mini-db)
 
+---
 ## 🎯 Current Goals
 
 - **Master advanced SQL** and database performance optimization (indexing, partitioning, query tuning)  
