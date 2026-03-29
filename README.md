@@ -1,7 +1,28 @@
-# Paul Ogonyo Ochieng  
-**Backend Engineer | Data Scientist in Progress | AI Enthusiast**
 
-> *"I’m a Computer Science student at Egerton University, bridging the gap between Backend Systems and Data Science. Passionate about building tools from scratch—like my recent custom SQL Database Engine.Crafting scalable backend systems, robust databases, and intelligent ML models to solve real-world problems. I build with purpose — from Django APIs to SQL engines and deep learning pipelines. Projects like KilimoTek reflect my mission: tech that transforms lives."*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Systems+Analyst;Stellar+Ambassador;AI%2FWeb3+Builder" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Hi, I'm Paul Ogonyo Ochieng</h1>
+
+<p align="center">
+  <b>🌍 Based in Kenya | Building the future of intelligent backend systems and decentralized tech.</b>
+</p>
+
+<p align="center">
+  <i>Systems Analyst, Backend Engineer, Stellar Ambassador, and AI/Web3 Builder</i>
+</p>
+
+<p align="center">
+  <b>Current Focus:</b>
+</p>
+
+<ul>
+  <li>🤖 Advancing Agentic AI and LLM-powered applications</li>
+  <li>🌐 Building with Soroban smart contracts on Stellar</li>
+  <li>🛠️ Architecting scalable backend systems (Python, Django, FastAPI)</li>
+  <li>📊 Exploring AI-driven data pipelines and automation</li>
+</ul>
 
 ---
 
