@@ -80,7 +80,18 @@
 
 ---
 
-## 📈 GitHub Stats
+
+## 🏗️ Project Matrix (Architecture Showcase)
+
+| Project & Vision | Core Engineering Focus | Tech Stack | Architecture |
+|------------------|-----------------------|------------|--------------|
+| **Web3 Stellar Flagship**<br/>Decentralized payments for emerging markets. | 🪐 Web3 / Stellar | <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Soroban-000000?logo=stellar&logoColor=white" /> <img src="https://img.shields.io/badge/Stellar-08B5E5?logo=stellar&logoColor=white" /> | [➔ View OOAS&D](#) |
+| **AI RAG Startup**<br/>Intelligent document Q&A for enterprises. | 🧠 AI RAG / Agentic AI | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" /> | [➔ View OOAS&D](#) |
+| **Enterprise Backend System**<br/>Scalable workflow automation for SMEs. | ⚙️ Backend / DBA | <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> | [➔ View OOAS&D](#) |
+
+---
+
+## 🌐 Professional Footprint
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PAULTYLER192&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Paul's GitHub Stats" />
@@ -88,6 +99,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAULTYLER192&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/paul-ochieng-139900319">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ochiengpaul193@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://medium.com/@ochiengpaul193">
+    <img src="https://img.shields.io/badge/Medium-Follow-black?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
 ---
 
