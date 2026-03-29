@@ -35,47 +35,34 @@
 ---
 
 
-## 🛡️ Tech Arsenal
 
-### 2.1 Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
+<h2 align="center">⚙️ The Tech Arsenal</h2>
+
+<h3 align="center">Backend Architecture & Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
-### 2.2 AI Engineering
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI_RAG-FFB300?logo=OpenAI&logoColor=white" />
+<h3 align="center">🧠 AI Engineering (RAG & Agentic AI)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243" />
 </p>
 
-### 2.3 Web3 & Blockchain
-<p>
-  <img src="https://img.shields.io/badge/Stellar-08B5E5?logo=stellar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soroban-000000?logo=stellar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-29B6AF?logo=web3dotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Smart_Contracts-FF6F00?logo=ethereum&logoColor=white" />
+<h3 align="center">🪐 Web3 & Stellar Ecosystem</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Stellar_SDK-000000?style=for-the-badge&logo=stellar&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=web3.js&logoColor=F16822" />
 </p>
 
 ---
