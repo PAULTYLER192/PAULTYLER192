@@ -127,10 +127,12 @@
 <br>
 
 
+
 <h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAULTYLER192&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=ffffff&amp;text_color=9f9f9f&amp;icon_color=ffffff&amp;bg_color=000000" alt="Paul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULTYLER192&amp;layout=compact&amp;hide_border=true&amp;title_color=ffffff&amp;text_color=9f9f9f&amp;bg_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PAULTYLER192&show_icons=true&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=000000&v=2" alt="Paul's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULTYLER192&layout=compact&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=000000&v=2" alt="Top Languages" />
 </p>
 
 <p align="center">
