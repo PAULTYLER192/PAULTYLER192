@@ -137,12 +137,12 @@
 
 ---
 
-## 🌐 Professional Footprint
 
+<h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAULTYLER192&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Paul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULTYLER192&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAULTYLER192&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PAULTYLER192&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=000000" alt="Paul's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULTYLER192&layout=compact&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=000000" alt="Top Languages" />
 </p>
 
 <p align="center">
