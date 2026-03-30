@@ -68,13 +68,72 @@
 ---
 
 
-## 🏗️ Project Matrix (Architecture Showcase)
 
-| Project & Vision | Core Engineering Focus | Tech Stack | Architecture |
-|------------------|-----------------------|------------|--------------|
-| **Web3 Stellar Flagship**<br/>Decentralized payments for emerging markets. | 🪐 Web3 / Stellar | <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Soroban-000000?logo=stellar&logoColor=white" /> <img src="https://img.shields.io/badge/Stellar-08B5E5?logo=stellar&logoColor=white" /> | [➔ View OOAS&D](#) |
-| **AI RAG Startup**<br/>Intelligent document Q&A for enterprises. | 🧠 AI RAG / Agentic AI | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" /> | [➔ View OOAS&D](#) |
-| **Enterprise Backend System**<br/>Scalable workflow automation for SMEs. | ⚙️ Backend / DBA | <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> | [➔ View OOAS&D](#) |
+<h2 align="center">🏗️ The Architecture Showcase</h2>
+<p align="center"><i>A curated selection of my systems design, bridging Web2 infrastructure with Web3 trust. (Proprietary source code is kept private; links point to OOAS&D architecture documentation).</i></p>
+
+<table align="center">
+  <tr>
+    <th>Project & Vision</th>
+    <th>Engineering Focus</th>
+    <th>Core Tech Stack</th>
+    <th>Architecture Flow</th>
+  </tr>
+  
+  <tr>
+    <td>
+      <strong>ShambaPulse</strong><br>
+      <i>Enterprise AgriTech bridging offline farming realities with decentralized finance ledgers[cite: 128].</i>
+    </td>
+    <td>🌍 Edge AI & Systems Arch.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" /><br>
+      <img src="https://img.shields.io/badge/TensorFlow_Lite-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /><br>
+      <img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" />
+    </td>
+    <td align="center"><a href="https://github.com/PAULTYLER192/ShambaPulse-Architecture"><strong>➔ View OOAS&D</strong></a></td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>KTNEA (National Awards)</strong><br>
+      <i>High-throughput FinTech voting engine utilizing AWS Nitro Enclaves for cryptographic trust[cite: 161, 165].</i>
+    </td>
+    <td>⚙️ Enterprise Backend / TEE</td>
+    <td>
+      <img src="https://img.shields.io/badge/Java_Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" /><br>
+      <img src="https://img.shields.io/badge/AWS_Nitro-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+    </td>
+    <td align="center"><a href="https://github.com/PAULTYLER192/KTNEA-Architecture"><strong>➔ View OOAS&D</strong></a></td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>FusionVote</strong><br>
+      <i>Zero-knowledge decentralized voting platform guaranteeing strict one-person-one-vote integrity[cite: 184].</i>
+    </td>
+    <td>🪐 Web3 / Cryptography</td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=web3.js&logoColor=F16822" />
+    </td>
+    <td align="center"><a href="https://github.com/PAULTYLER192/FusionVote-Architecture"><strong>➔ View OOAS&D</strong></a></td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>ACIS</strong><br>
+      <i>Agentic AI immune system that autonomously resolves enterprise bugs and audits fixes on-chain[cite: 209].</i>
+    </td>
+    <td>🧠 Agentic AI / Streaming</td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+    </td>
+    <td align="center"><a href="https://github.com/PAULTYLER192/ACIS-Architecture"><strong>➔ View OOAS&D</strong></a></td>
+  </tr>
+</table>
 
 ---
 
